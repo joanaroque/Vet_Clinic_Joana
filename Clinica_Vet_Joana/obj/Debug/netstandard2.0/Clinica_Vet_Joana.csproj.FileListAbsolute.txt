@@ -1,0 +1,213 @@
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojResolveAssemblyReference.cache
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Joana Roque\source\repos\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\joana\Documents\Programaçao\POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\joana\Documents\Programaçao\POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\joana\Documents\Programaçao\POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\joana\Documents\Programaçao\POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\Documents\Programaçao\POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojAssemblyReference.cache
+C:\Users\joana\Documents\Programaçao\POO\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\joana\Documents\Programaçao\POO\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\POO\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojResolveAssemblyReference.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_Joana\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojAssemblyReference.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_Joana\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojResolveAssemblyReference.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojAssemblyReference.cache
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CopyComplete
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\OneDrive\Ambiente de Trabalho\Clinica_Vet_Joana - Cópia\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojResolveAssemblyReference.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaPENULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojResolveAssemblyReference.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica_Vet_JoanaULTIMO\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojResolveAssemblyReference.cache
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\Documents\Programaçao\ab__POO\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\joana\Documents\Programaçao\ab__POO\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\ab__POO\ClinicaESTE\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\Documents\Programaçao\ab__POO\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojAssemblyReference.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\joana\Documents\Programaçao\ab__POO\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\ab__POO\ClinicaESTE\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojAssemblyReference.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\joana\Documents\Programaçao\ab__POO\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.deps.json
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Clinica_Vet_Joana.pdb
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csprojResolveAssemblyReference.cache
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.csproj.CoreCompileInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfoInputs.cache
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.AssemblyInfo.cs
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.dll
+C:\Users\Joana Roque\Desktop\Clinica Veterinaria FINAL\Clinica_Vet_Joana\obj\Debug\netstandard2.0\Clinica_Vet_Joana.pdb

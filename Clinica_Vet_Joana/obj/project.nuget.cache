@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wo+ZCX6YR3bOcHcxP1R/PoJmzS8puA2PPdPehTM6NrEKQyiVsGF0hXnJaT7E9YiD56JmWZAOdwl77uFTuMqaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joana\\Documents\\Programaçao\\ab__POO\\Clinica Veterinaria FINAL\\Clinica_Vet_Joana\\Clinica_Vet_Joana.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

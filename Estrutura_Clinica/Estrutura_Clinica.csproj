@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{97B38A9C-6203-45C6-BF65-60529F31AC43}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Estrutura_Clinica</RootNamespace>
+    <AssemblyName>Estrutura_Clinica</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\joana\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>88D8D35602DB71F4964077E1778004EC27FA7322</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Estrutura_Clinica_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FichaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FichaCliente.Designer.cs">
+      <DependentUpon>FichaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GerirAnimais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GerirAnimais.Designer.cs">
+      <DependentUpon>GerirAnimais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GerirClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GerirClientes.Designer.cs">
+      <DependentUpon>GerirClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GerirMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GerirMedicos.Designer.cs">
+      <DependentUpon>GerirMedicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarcarConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarcarConsulta.Designer.cs">
+      <DependentUpon>MarcarConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notificacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notificacoes.Designer.cs">
+      <DependentUpon>Notificacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaginaInicial.Designer.cs">
+      <DependentUpon>PaginaInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FichaCliente.resx">
+      <DependentUpon>FichaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GerirAnimais.resx">
+      <DependentUpon>GerirAnimais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GerirClientes.resx">
+      <DependentUpon>GerirClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GerirMedicos.resx">
+      <DependentUpon>GerirMedicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarcarConsulta.resx">
+      <DependentUpon>MarcarConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notificacoes.resx">
+      <DependentUpon>Notificacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaginaInicial.resx">
+      <DependentUpon>PaginaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Estrutura_Clinica_TemporaryKey.pfx" />
+    <None Include="Properties\DataSources\Clinica_Vet_Joana.Animal.datasource" />
+    <None Include="Properties\DataSources\Clinica_Vet_Joana.Cliente.datasource" />
+    <None Include="Properties\DataSources\Clinica_Vet_Joana.Consulta.datasource" />
+    <None Include="Properties\DataSources\Clinica_Vet_Joana.Consultas.datasource" />
+    <None Include="Properties\DataSources\Clinica_Vet_Joana.Medico.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Clinica_Vet_Joana\Clinica_Vet_Joana.csproj">
+      <Project>{9914c627-31ed-4f9d-b1f1-8ed1edb7b170}</Project>
+      <Name>Clinica_Vet_Joana</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Adobe_Version_Cue_CS_60551.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Adobe_Jrun_CS_60544.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adobe_Jrun_CS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_drive_519201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_floppy_disk_3380379.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editco.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addpet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lixo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Apple_Rainbow_281710.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marcarcons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add cl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_medical_record_doctor_files_4852556.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marca consulta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marca consulta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marca consulta2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inicio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_First_aid_pet_3775254.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Doctor_3436593.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_key_c_64380.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_key_c_643801.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\med.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clienee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clienee1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consulta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\canceeel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cao2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geriranim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addmed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admedi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hygfgcvh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clinica.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consulta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medico consulta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medico consultaa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marcarconsulta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notificar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicos1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicos2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
